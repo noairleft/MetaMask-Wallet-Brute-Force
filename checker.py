@@ -12,7 +12,7 @@ from termcolor import colored, cprint
 # import os
 
 ETHAPI = 'key'
-BSCAPI = 'key'
+BSCAPI = 'T9V794U1JX132CSMGN9RB6FVJGIMB95Q2A'
 
 while True:    
     MNEMONIC: str = generate_mnemonic(language="english", strength=128)

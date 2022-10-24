@@ -11,8 +11,8 @@ from termcolor import colored, cprint
 # import time
 # import os
 
-ETHAPI = 'key'
-BSCAPI = 'key'
+ETHAPI = 'BK97DB1Q6B946N6W6HR7T7KWF6A9I886B9'
+BSCAPI = 'T9V794U1JX132CSMGN9RB6FVJGIMB95Q2A'
 
 while True:    
     MNEMONIC: str = generate_mnemonic(language="english", strength=128)
